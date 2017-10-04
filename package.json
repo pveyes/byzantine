@@ -1,0 +1,29 @@
+{
+  "name": "byzantine",
+  "version": "1.0.0",
+  "description": "istanbul coverage json parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pveyes/byzantine.git"
+  },
+  "keywords": [
+    "istanbul",
+    "coverage",
+    "json",
+    "parser",
+    "parse"
+  ],
+  "engine": {
+    "node": "^6.9.4"
+  },
+  "author": "Fatih Kalifa <fatihkalifa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pveyes/byzantine/issues"
+  },
+  "homepage": "https://github.com/pveyes/byzantine#readme"
+}
