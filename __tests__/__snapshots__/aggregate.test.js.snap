@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`aggregates multiple coverages 1`] = `
+Object {
+  "branches": 50,
+  "functions": 0,
+  "statements": 56.41025641025641,
+}
+`;
+
+exports[`aggregates single coverages 1`] = `
+Object {
+  "branches": 100,
+  "functions": 0,
+  "statements": 66.66666666666666,
+}
+`;
+
+exports[`empty coverages 1`] = `
+Object {
+  "branches": null,
+  "functions": null,
+  "statements": null,
+}
+`;

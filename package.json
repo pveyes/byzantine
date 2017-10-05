@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/pveyes/byzantine/issues"
   },
-  "homepage": "https://github.com/pveyes/byzantine#readme"
+  "homepage": "https://github.com/pveyes/byzantine#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
 }
