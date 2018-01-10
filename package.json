@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/pveyes/byzantine#readme",
   "devDependencies": {
-    "jest": "^21.2.1"
+    "jest": "^22.0.5"
   }
 }
