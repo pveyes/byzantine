@@ -1,5 +1,7 @@
 # Byzantine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pveyes/byzantine.svg)](https://greenkeeper.io/)
+
 > Istanbul json coverage parser
 
 ## Install
